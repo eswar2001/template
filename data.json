@@ -62,5 +62,120 @@
                 "Oversee the efficient use of production project budgets ranging from $2,000 - $25,000"
             ]
         }]
-    }
+    },
+    "My_Services_Section": {
+        "quote": "Sit sint consectetur velit quisquam cupiditate impedit suscipit alias",
+        "services": [{
+            "icon": "bxl-dribbble",
+            "nameofservice": "Lorem Ipsum",
+            "url": "#",
+            "detail": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sintoccaecati cupiditate non provident"
+        }, {
+            "icon": "bx-file",
+            "nameofservice": "Lorem Ipsum",
+            "url": "#",
+            "detail": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sintoccaecati cupiditate non provident"
+        }, {
+            "icon": "bx-tachometer",
+            "nameofservice": "Lorem Ipsum",
+            "url": "#",
+            "detail": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sintoccaecati cupiditate non provident"
+        }]
+    },
+    "Testimonials Section": [{
+        "img": "assets/img/testimonials/testimonials-2.jpg",
+        "name": "Sara Wilsson",
+        "designation": "Designer",
+        "comment": "Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa."
+    }, {
+        "img": "assets/img/testimonials/testimonials-2.jpg",
+        "name": "Sara Wilsson",
+        "designation": "Designer",
+        "comment": "Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa."
+    }, {
+        "img": "assets/img/testimonials/testimonials-2.jpg",
+        "name": "Sara Wilsson",
+        "designation": "Designer",
+        "comment": "Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa."
+    }, {
+        "img": "assets/img/testimonials/testimonials-2.jpg",
+        "name": "Sara Wilsson",
+        "designation": "Designer",
+        "comment": "Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa."
+    }, {
+        "img": "assets/img/testimonials/testimonials-2.jpg",
+        "name": "Sara Wilsson",
+        "designation": "Designer",
+        "comment": "Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa."
+    }],
+    "My Portfolio Section": {
+        "portfolio-filters": [{
+                "class": ".filter-app",
+                "title": "app"
+            }, {
+                "class": ".filter-card",
+                "title": "card"
+            },
+            {
+                "class": ".filter-web",
+                "title": "web"
+            }
+
+        ],
+        "portfolio-item": [{
+            "type": "app",
+            "img": "assets/img/portfolio/portfolio-1.jpg",
+            "link": "portfolio-details.html"
+        }, {
+            "type": "web",
+            "img": "assets/img/portfolio/portfolio-2.jpg",
+            "link": "portfolio-details.html"
+        }, {
+            "type": "app",
+            "img": "assets/img/portfolio/portfolio-3.jpg",
+            "link": "portfolio-details.html"
+        }, {
+            "type": "card",
+            "img": "assets/img/portfolio/portfolio-4.jpg",
+            "link": "portfolio-details.html"
+        }, {
+            "type": "web",
+            "img": "assets/img/portfolio/portfolio-5.jpg",
+            "link": "portfolio-details.html"
+        }, {
+            "type": "app",
+            "img": "assets/img/portfolio/portfolio-6.jpg",
+            "link": "portfolio-details.html"
+        }, {
+            "type": "web",
+            "img": "assets/img/portfolio/portfolio-7.jpg",
+            "link": "portfolio-details.html"
+        }, {
+            "type": "web",
+            "img": "assets/img/portfolio/portfolio-8.jpg",
+            "link": "portfolio-details.html"
+        }, {
+            "type": "app",
+            "img": "assets/img/portfolio/portfolio-9.jpg",
+            "link": "portfolio-details.html"
+        }]
+    },
+    "Social-Profiles": [{
+        "icon": "icofont-twitter",
+        "link": "#"
+    }, {
+        "icon": "icofont-facebook",
+        "link": "#"
+    }, {
+        "icon": "icofont-instagram",
+        "link": "#"
+    }, {
+        "icon": "icofont-skype",
+        "link": "#"
+    }, {
+        "icon": "icofont-linkedin",
+        "link": "#"
+    }],
+    "email": "contact@example.com",
+    "phone": "+1 5589 55488 55"
 }
