@@ -8,7 +8,7 @@
         "Name": "Laura Thomson",
         "Website": " www.example.com",
         "Phone": " +123 456 7890",
-        "City": " City : New York, USA",
+        "City": " New York, USA",
         "Age": "30",
         "Degree": "Master",
         "Email": " email@example.com",
@@ -16,7 +16,7 @@
         "myimg": "assets/img/me.jpg",
         "aboutme": "I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. In my last job, this passion led me to challenge myself daily and learn new skills that helped me to do better work. For example, I taught myself how to use Photoshop to improve the quality of our photos and graphics. I soon became the go-to person for any design needs."
     },
-    "My Resume Section": {
+    "My_Resume_Section": {
         "quote": "Sit sint consectetur velit quisquam cupiditate impedit suscipit alias",
         "Sumary": {
             "Name": "Alice Barkley",
@@ -82,7 +82,7 @@
             "detail": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sintoccaecati cupiditate non provident"
         }]
     },
-    "Testimonials Section": [{
+    "Testimonials_Section": [{
         "img": "assets/img/testimonials/testimonials-2.jpg",
         "name": "Sara Wilsson",
         "designation": "Designer",
@@ -108,8 +108,9 @@
         "designation": "Designer",
         "comment": "Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa."
     }],
-    "My Portfolio Section": {
-        "portfolio-filters": [{
+    "My_Portfolio_Section": {
+        "quote": "Sit sint consectetur velit quisquam cupiditate impedit suscipit alias",
+        "portfolio_filters": [{
                 "class": ".filter-app",
                 "title": "app"
             }, {
@@ -122,7 +123,7 @@
             }
 
         ],
-        "portfolio-item": [{
+        "portfolio_item": [{
             "type": "app",
             "img": "assets/img/portfolio/portfolio-1.jpg",
             "link": "portfolio-details.html"
@@ -160,7 +161,7 @@
             "link": "portfolio-details.html"
         }]
     },
-    "Social-Profiles": [{
+    "Social_Profiles": [{
         "icon": "icofont-twitter",
         "link": "#"
     }, {
