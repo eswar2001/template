@@ -1,0 +1,66 @@
+{
+    "Hero_section": {
+        "Name": "Laura Thomson",
+        "Tagline": "I'm a Professional Photographer In New York City"
+    },
+    "About_Me_Section": {
+        "quote": "Sit sint consectetur velit quisquam cupiditate impedit suscipit alias",
+        "Name": "Laura Thomson",
+        "Website": " www.example.com",
+        "Phone": " +123 456 7890",
+        "City": " City : New York, USA",
+        "Age": "30",
+        "Degree": "Master",
+        "Email": " email@example.com",
+        "Freelance": " Available",
+        "myimg": "assets/img/me.jpg",
+        "aboutme": "I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. In my last job, this passion led me to challenge myself daily and learn new skills that helped me to do better work. For example, I taught myself how to use Photoshop to improve the quality of our photos and graphics. I soon became the go-to person for any design needs."
+    },
+    "My Resume Section": {
+        "quote": "Sit sint consectetur velit quisquam cupiditate impedit suscipit alias",
+        "Sumary": {
+            "Name": "Alice Barkley",
+            "intro": "<em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em>",
+            "location": "Portland par 127,Orlando, FL",
+            "phoneno": "(123) 456-7891",
+            "email": "alice.barkley@example.com"
+        },
+        "Education": [{
+            "course": "Master of Fine Arts &amp; Graphic Design",
+            "timeline": "2015 - 2016",
+            "institute": "Rochester Institute of Technology, Rochester, NY",
+            "experience": "Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend"
+        }, {
+            "course": "Master of Fine Arts &amp; Graphic Design",
+            "timeline": "2015 - 2016",
+            "institute": "Rochester Institute of Technology, Rochester, NY",
+            "experience": "Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend"
+        }, {
+            "course": "Master of Fine Arts &amp; Graphic Design",
+            "timeline": "2015 - 2016",
+            "institute": "Rochester Institute of Technology, Rochester, NY",
+            "experience": "Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend"
+        }],
+        "Professional_Experience": [{
+            "role": "Senior graphic design specialist",
+            "duration": "2019 - Present",
+            "location": "Experion, New York, NY ",
+            "Task": [
+                "Lead in the design, development, and implementation of the graphic, layout, and production communication materials",
+                "Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. ",
+                "Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design",
+                "Oversee the efficient use of production project budgets ranging from $2,000 - $25,000"
+            ]
+        }, {
+            "role": "Senior graphic design specialist",
+            "duration": "2019 - Present",
+            "location": "Experion, New York, NY ",
+            "Task": [
+                "Lead in the design, development, and implementation of the graphic, layout, and production communication materials",
+                "Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. ",
+                "Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design",
+                "Oversee the efficient use of production project budgets ranging from $2,000 - $25,000"
+            ]
+        }]
+    }
+}
